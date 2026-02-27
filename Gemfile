@@ -19,6 +19,8 @@ gem "turbo-rails"
 gem "stimulus-rails"
 gem "solid_cable"
 gem "solid_queue"
+gem "dotenv-rails"
+gem "cloudinary"
 gem "solid_cache"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
